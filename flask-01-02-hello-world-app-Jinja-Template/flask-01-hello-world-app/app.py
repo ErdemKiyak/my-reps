@@ -10,7 +10,7 @@ def head():
 def second():
     return "This is the second page"
 
-@app.route("/third/erdem")
+@app.route("/third/tunc")
 def third():
     return "This is the subpath of third path"
 
